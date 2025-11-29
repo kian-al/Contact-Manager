@@ -1,0 +1,2 @@
+[console_scripts]
+contact-manager = contact_manager.cli:cli
